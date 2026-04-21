@@ -1,0 +1,5 @@
+# echo: output input stream exactly, halt at EOF
+[0]<1
+A<I
+Z<[A]
+O<A

@@ -1,0 +1,10 @@
+# if else: read two bytes, output '1' if equal else '0'
+[0]<48
+[49]<49
+A<I
+B<I
+[A]<49
+C<[B]
+D<[C]
+O<D
+Z<1
